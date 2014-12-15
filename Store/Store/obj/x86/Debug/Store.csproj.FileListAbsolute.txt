@@ -1,0 +1,40 @@
+C:\Users\lenovo\Desktop\Store\Store\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Store\Store\obj\x86\Debug\StoreOfGoods.Store.resources
+C:\Users\lenovo\Desktop\Store\Store\obj\x86\Debug\Store.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\Store\Store\bin\Debug\Store.exe
+C:\Users\lenovo\Desktop\Store\Store\bin\Debug\Store.pdb
+C:\Users\lenovo\Desktop\Store\Store\obj\x86\Debug\Store.exe
+C:\Users\lenovo\Desktop\Store\Store\obj\x86\Debug\Store.pdb
+C:\Users\lenovo\Desktop\Store\Store\obj\x86\Debug\Store.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\Store\Store\obj\x86\Debug\WindowsFormsApplication1.AllItemsForm.resources
+C:\Users\lenovo\Desktop\Store\Store\obj\x86\Debug\WindowsFormsApplication1.SearchForm.resources
+C:\Users\lenovo\Desktop\Курсовая работа\Store\Store\obj\x86\Debug\Store.exe
+C:\Users\lenovo\Desktop\Курсовая работа\Store\Store\obj\x86\Debug\Store.pdb
+C:\Users\lenovo\Desktop\Прога\Курсовая работа\Store\Store\obj\x86\Debug\Store.exe
+C:\Users\lenovo\Desktop\Прога\Курсовая работа\Store\Store\obj\x86\Debug\Store.pdb
+C:\Users\lenovo\Desktop\Прога 2 курс\Проект\Курсовая работа\Store\Store\obj\x86\Debug\Store.exe
+C:\Users\lenovo\Desktop\Прога 2 курс\Проект\Курсовая работа\Store\Store\obj\x86\Debug\Store.pdb
+C:\Users\lenovo\Desktop\Прога 2 курс\Проект\Курсовая работа\Store\Store\bin\Debug\Store.exe
+C:\Users\lenovo\Desktop\Прога 2 курс\Проект\Курсовая работа\Store\Store\bin\Debug\Store.pdb
+C:\Users\lenovo\Desktop\Прога 2 курс\Проект\Курсовая работа\Store\Store\obj\x86\Debug\Store.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\Прога 2 курс\Проект\Курсовая работа\Store\Store\obj\x86\Debug\WindowsFormsApplication1.AllItemsForm.resources
+C:\Users\lenovo\Desktop\Прога 2 курс\Проект\Курсовая работа\Store\Store\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Прога 2 курс\Проект\Курсовая работа\Store\Store\obj\x86\Debug\WindowsFormsApplication1.SearchForm.resources
+C:\Users\lenovo\Desktop\Прога 2 курс\Проект\Курсовая работа\Store\Store\obj\x86\Debug\StoreOfGoods.Store.resources
+C:\Users\lenovo\Desktop\Прога 2 курс\Проект\Курсовая работа\Store\Store\obj\x86\Debug\Store.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\Курсовая работа\Store\Store\bin\Debug\Store.exe
+C:\Users\lenovo\Desktop\Курсовая работа\Store\Store\bin\Debug\Store.pdb
+C:\Users\lenovo\Desktop\Курсовая работа\Store\Store\obj\x86\Debug\Store.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\Курсовая работа\Store\Store\obj\x86\Debug\WindowsFormsApplication1.AllItemsForm.resources
+C:\Users\lenovo\Desktop\Курсовая работа\Store\Store\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Курсовая работа\Store\Store\obj\x86\Debug\WindowsFormsApplication1.SearchForm.resources
+C:\Users\lenovo\Desktop\Курсовая работа\Store\Store\obj\x86\Debug\StoreOfGoods.Store.resources
+C:\Users\lenovo\Desktop\Курсовая работа\Store\Store\obj\x86\Debug\Store.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\Курсовая работа\Store\Store\bin\Debug\Store.exe.config
+C:\Users\lenovo\Desktop\Курсовая работа\Store\Store\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\Desktop\Курсовая работа\Store\Store\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Desktop\Курсовая работа\Store\Store\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\Desktop\Курсовая работа\Store\Store\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Desktop\Курсовая работа\Store\Store\obj\x86\Debug\WindowsFormsApplication1.Migrations.InitialCreate.resources
+C:\Users\lenovo\Desktop\Курсовая работа\Store\Store\obj\x86\Debug\WindowsFormsApplication1.Migrations.m1.resources
+C:\Users\lenovo\Desktop\Курсовая работа\Store\Store\obj\x86\Debug\WindowsFormsApplication1.Migrations.m2.resources

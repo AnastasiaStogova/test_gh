@@ -1,0 +1,6 @@
+C:\Users\lenovo\Desktop\Store\Store\obj\x86\Release\WindowsFormsApplication1.ItemFull.resources
+C:\Users\lenovo\Desktop\Store\Store\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Store\Store\obj\x86\Release\WindowsFormsApplication1.SearchForm.resources
+C:\Users\lenovo\Desktop\Store\Store\obj\x86\Release\StoreOfGoods.Store.resources
+C:\Users\lenovo\Desktop\Store\Store\obj\x86\Release\Store.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\Store\Store\obj\x86\Release\WindowsFormsApplication1.AllItemsForm.resources
