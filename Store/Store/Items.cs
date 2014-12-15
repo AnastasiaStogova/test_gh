@@ -21,6 +21,8 @@ namespace WindowsFormsApplication1
         public double price { get; set; }
         //[DisplayName("Место")]
         //public string place { get; set; }
+        //fgdfgdfgdfg
+        //dfgdfgdfgdfg
 
         public Item()                                                                                   //Объявляем пустой конструктор Item
         {

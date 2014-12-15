@@ -38,3 +38,6 @@ C:\Users\lenovo\Desktop\Курсовая работа\Store\Store\bin\Debug\Enti
 C:\Users\lenovo\Desktop\Курсовая работа\Store\Store\obj\x86\Debug\WindowsFormsApplication1.Migrations.InitialCreate.resources
 C:\Users\lenovo\Desktop\Курсовая работа\Store\Store\obj\x86\Debug\WindowsFormsApplication1.Migrations.m1.resources
 C:\Users\lenovo\Desktop\Курсовая работа\Store\Store\obj\x86\Debug\WindowsFormsApplication1.Migrations.m2.resources
+C:\Users\lenovo\Documents\GitHub\test_gh\Store\Store\bin\Debug\Store.exe.config
+C:\Users\lenovo\Documents\GitHub\test_gh\Store\Store\obj\x86\Debug\Store.exe
+C:\Users\lenovo\Documents\GitHub\test_gh\Store\Store\obj\x86\Debug\Store.pdb
