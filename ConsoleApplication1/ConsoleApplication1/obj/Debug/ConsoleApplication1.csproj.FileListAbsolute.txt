@@ -4,3 +4,6 @@ c:\users\lenovo\documents\visual studio 2013\Projects\ConsoleApplication1\Consol
 c:\users\lenovo\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
 c:\users\lenovo\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 c:\users\lenovo\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\lenovo\Documents\GitHub\test_gh\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\lenovo\Documents\GitHub\test_gh\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\lenovo\Documents\GitHub\test_gh\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

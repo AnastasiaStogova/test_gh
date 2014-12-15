@@ -110,6 +110,10 @@ namespace ConsoleApplication1
                 Console.WriteLine("Group ({0}) size: {1}", g.Key, g.Count());
                 foreach (var s in g)
                     s.Print();
+                //hdflgsleg
+                //drjh
+
+                //ljkfghie
             }
         }
 
